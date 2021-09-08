@@ -15,13 +15,15 @@
     margin-top: 10px;
     
 }
+.oggetto1{
+    float: left;
+}
 .card-1 {
     height: 900px;
     width: 600px;
-    float: left;
     background-image: url(/css/img/1.webp);
-    
 }
+
 .hears {
     height: 80px;
     width: 80px;
@@ -32,7 +34,6 @@
     font-size: 42px;
     background-color: white;
 }
-
 .red{
     height: 35px;
     width: 70px;
@@ -54,19 +55,65 @@
     font-size: 19px;
     color: white;
     padding-top: 7px;
-    
+}
+.oggetto2{
+    width: 600px;
+    margin-inline: auto;
 }
 .card-2{
     height: 900px;
     width: 600px;
-    margin-inline: auto;
     background-image: url(/css/img/2.webp);
 
+}
+.oggetto3{
+    float: right;
 }
 .card-3 {
     height: 900px;
     width: 600px;
-    float: right;
-    background-image: url(/css/img/1.webp);
-    
+    background-image: url(/css/img/3.webp);
+}
+.prezzi {
+    width: 600px;
+    font-family: 'Kaisei Tokumin', serif;
+    font-size: 20px;
+}
+.modello{
+    font-weight: 600;
+}
+.offerta {
+    font-weight: 700;
+    color: red;
+}
+.contenitore2 {
+    height: 900px;
+    width: 1900px;
+    margin-left: 350px;
+    margin-top: 72px;
+}
+.card-4{
+    height: 900px;
+    width: 600px;
+    background-image: url(/css/img/4.webp);
+}
+.card-5{
+    height: 900px;
+    width: 600px;
+    background-image: url(/css/img/5.webp);  
+}
+.card-6{
+    height: 900px;
+    width: 600px;
+    background-image: url(/css/img/6.webp);
+}
+.oggetto4{
+    float: left;
+}
+.oggetto5{
+    width: 600px;
+    margin-inline: auto;
+}
+.oggetto6{
+    float:right
 }
