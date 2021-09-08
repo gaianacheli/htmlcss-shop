@@ -3,3 +3,36 @@
     margin: 0;
     padding: 0;
 }
+ .clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.contenitore {
+    height: 900px;
+    width: 1900px;
+    margin-left: 350px;
+    margin-top: 10px;
+    
+}
+.card-1 {
+    height: 900px;
+    width: 600px;
+    float: left;
+    background-image: url(/css/img/1.webp);
+    
+}
+.card-2{
+    height: 900px;
+    width: 600px;
+    margin-inline: auto;
+    background-image: url(/css/img/2.webp);
+
+}
+.card-3 {
+    height: 900px;
+    width: 600px;
+    float: right;
+    background-image: url(/css/img/1.webp);
+    
+}
