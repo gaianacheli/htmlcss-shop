@@ -22,6 +22,10 @@
     height: 900px;
     width: 600px;
     background-image: url(/css/img/1.webp);
+    transition: 1s;
+}
+.card-1:hover {
+    background-image: url(/css/img/1b.webp);
 }
 
 .hears {
@@ -64,7 +68,10 @@
     height: 900px;
     width: 600px;
     background-image: url(/css/img/2.webp);
-
+    transition: 1s;
+}
+.card-2:hover{
+    background-image: url(/css/img/2b.webp);
 }
 .oggetto3{
     float: right;
@@ -73,6 +80,10 @@
     height: 900px;
     width: 600px;
     background-image: url(/css/img/3.webp);
+    transition: 1s;
+}
+.card-3:hover{
+    background-image: url(/css/img/3b.webp);
 }
 .prezzi {
     width: 600px;
@@ -96,16 +107,28 @@
     height: 900px;
     width: 600px;
     background-image: url(/css/img/4.webp);
+    transition: 1s;
+}
+.card-4:hover{
+    background-image: url(/css/img/4b.webp);
 }
 .card-5{
     height: 900px;
     width: 600px;
     background-image: url(/css/img/5.webp);  
+    transition: 1s;
+}
+.card-5:hover{
+    background-image: url(/css/img/5b.webp);
 }
 .card-6{
     height: 900px;
     width: 600px;
     background-image: url(/css/img/6.webp);
+    transition: 1s;
+}
+.card-6:hover{
+    background-image: url(/css/img/6b.webp);
 }
 .oggetto4{
     float: left;
