@@ -33,7 +33,18 @@
     background-color: white;
 }
 
-
+.red{
+    height: 35px;
+    width: 70px;
+    background-color: red;
+    margin-top: 840px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.green{
+    
+}
 .card-2{
     height: 900px;
     width: 600px;
